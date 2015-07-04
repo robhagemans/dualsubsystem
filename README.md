@@ -5,6 +5,7 @@ This is a copy of dualsubsystem, originally published under the [MIT license](ht
 This is not my software. It is provided here for reference, as Google Code will be closing and I have used some of this code for my project [ANSI|pipe](https://github.com/robhagemans/ansipipe). I do not take credit for dualsubsystem and neither do I support it.
 
 Please note that the repository itself contains no files, as the original SVN repo was empty. Full source code is included with the binary in the [zip-file release](https://github.com/robhagemans/dualsubsystem/releases).
+
 -------
 
 ## Summary ##
